@@ -23,4 +23,4 @@ def ticket():
 
 while True:
     ticket()
-    time.sleep(600)
+    time.sleep(10)
